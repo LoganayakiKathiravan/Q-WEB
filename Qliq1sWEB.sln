@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qliq1sWEB", "Qliq1sWEB\Qliq1sWEB.csproj", "{836E432C-5FC7-4C3A-95EB-C54B64325376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qliq1sWEB.Tests", "Qliq1sWEB.Tests\Qliq1sWEB.Tests.csproj", "{2891D290-8BC4-42AB-BE4A-71E7BF9BB191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836E432C-5FC7-4C3A-95EB-C54B64325376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836E432C-5FC7-4C3A-95EB-C54B64325376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836E432C-5FC7-4C3A-95EB-C54B64325376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836E432C-5FC7-4C3A-95EB-C54B64325376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2891D290-8BC4-42AB-BE4A-71E7BF9BB191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2891D290-8BC4-42AB-BE4A-71E7BF9BB191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2891D290-8BC4-42AB-BE4A-71E7BF9BB191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2891D290-8BC4-42AB-BE4A-71E7BF9BB191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364DB26A-F4F8-428C-9312-E2B539902875}
+	EndGlobalSection
+EndGlobal
